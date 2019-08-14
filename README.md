@@ -14,4 +14,7 @@
 ###### Checking whether a word is a palindrome.
 
 > task-5
-###### sorting values from querySelectorAll.
+###### Sorting values from querySelectorAll.
+
+> task-6
+###### Increase on first click; decrease on second click.
