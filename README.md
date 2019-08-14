@@ -6,3 +6,6 @@
 
 > task-2
 ###### On blur, the sum of the digits of the number from the input.
+
+> task-3
+###### On blur, getting the day of the week from a date.
