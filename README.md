@@ -18,3 +18,6 @@
 
 > task-6
 ###### Increase on first click; decrease on second click.
+
+> task-3
+###### On blur, the first letter in uppercase.
