@@ -6,7 +6,7 @@ function getSum() {
   const sum = document.querySelector(".sum");
   arr = numValue.split("");
   let baseSum = 0;
-  for (var i = 0; i < arr.length; i++) {
+  for (let i = 0; i < arr.length; i++) {
     baseSum += parseInt(arr[i]);
   }
   sum.innerHTML = baseSum;

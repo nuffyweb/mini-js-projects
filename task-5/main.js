@@ -1,6 +1,6 @@
 const content = document.querySelectorAll(".content");
 const result = [];
-for (var i = 0; i < content.length; i++) {
+for (let i = 0; i < content.length; i++) {
   result.push(content[i].textContent);
 }
 const btn = document.querySelector(".btn");
