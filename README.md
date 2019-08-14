@@ -9,3 +9,6 @@
 
 > task-3
 ###### On blur, getting the day of the week from a date.
+
+> task-4
+###### Checking whether a word is a palindrome
