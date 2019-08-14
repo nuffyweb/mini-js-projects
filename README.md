@@ -21,3 +21,6 @@
 
 > task-7
 ###### On blur, the first letter in uppercase.
+
+> task-8
+###### Plus & Minus Buttons To Add to Cart Quantity Input.
