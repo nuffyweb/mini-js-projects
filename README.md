@@ -1,1 +1,1 @@
-# mini-js-projects
+# mini-js-tasks
